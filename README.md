@@ -1,6 +1,6 @@
 # Home_Sales
 
-<h1>Instructions</h1>h1>
+<h1>Instructions</h1>
 
 1. Rename the Home_Sales_starter_code.ipynb file as Home_Sales.ipynb.
 
